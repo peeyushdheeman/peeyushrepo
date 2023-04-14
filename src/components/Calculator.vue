@@ -2,7 +2,6 @@
   <h1> Vishnu Branch</h1>
   <div class="calculator">
     <div class="display" :v-model="modulus">{{ current }}</div>
-
     <div class="btn" v-on:click="clear()">C</div>
     <div class="btn" v-on:click="preoperators()">+/-</div>
     <div class="btn" v-on:click="buttons8()">÷</div>
