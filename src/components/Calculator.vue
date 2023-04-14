@@ -1,5 +1,6 @@
 <template>
-  <h1> Main Branch</h1>
+  <h1> Peeyush Branch</h1>
+  <h1> Peeyush sososo</h1>
   <div class="calculator">
     <div class="display" :v-model="modulus">{{ current }}</div>
     <div class="btn" v-on:click="clear()">C</div>
