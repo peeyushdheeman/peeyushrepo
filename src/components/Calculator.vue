@@ -38,10 +38,6 @@ export default {
     };
   },
   methods: {
-    // setPrevious() {
-    //   this.previous = this.current;
-    //   this.operatorClicked = true;
-    // },
     clear() {
       this.current = "";
       this.previous = "";
