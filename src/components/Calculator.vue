@@ -1,6 +1,6 @@
 <template>
-  <h1> Vishnu Branch</h1>
-  <h1> Vishnu lolo</h1>
+  <h1> Saurabh Branch</h1>
+  <h1>Hero Saurabh</h1>
   <div class="calculator">
     <div class="display" :v-model="modulus">{{ current }}</div>
     <div class="btn" v-on:click="clear()">C</div>
